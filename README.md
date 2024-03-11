@@ -36,4 +36,4 @@
     <h2>Contribuindo</h2>
     <p>Se você gostaria de contribuir com este projeto, sinta-se à vontade para abrir uma nova issue ou enviar uma pull request.</p>
     <h2>Licença</h2>
-    <p>Este projeto está licenciado sob a MIT License - veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
+    <p>Este projeto está licenciado sob a APACHE License 2.0 - veja o arquivo <a href="LICENSE">LICENSE</a> para mais detalhes.</p>
